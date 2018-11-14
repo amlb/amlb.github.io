@@ -1,4 +1,5 @@
 # Ateliers Machine Learning Brest (ALLOHa)
+Lien Github: [https://github.com/amlb/amlb.github.io](https://github.com/amlb/amlb.github.io)
 
 ## 14 Novembre 2018
 - speaker: Erwan Keribin
