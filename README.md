@@ -30,7 +30,7 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 - Animateur: Dorian Cazau
 - Question concrète: Approche multimodale, consistant à apprendre conjointement des features sur la vidéo et le son, améliore t-elle la reconnaissance automatique de scènes acoustiques issues de vidéos youtube ?
 - Méthode machine learning: multimodal deep auto-encoder
-- Dataset formatté et benchmarké: Google Audio Set (https://research.google.com/audioset/)
+- Dataset formatté et benchmarké: Google Audio Set ([https://research.google.com/audioset](https://research.google.com/audioset))
 
 ### [10 Octobre 2018](/2018-10-10_CNN_Whales)
 - Animateur: Paul Nguyen Hong Duc
