@@ -3,11 +3,11 @@ Lien Github: [https://github.com/amlb/amlb.github.io](https://github.com/amlb/am
 
 ## Description de l'évènement
 
-L'atelier machine learning se déroule au PNBI un mercredi sur deux (sauf vacances) de 10h30 à 12h. Il s'agit d'une recontre de co-apprentissage impulsé par un animateur. Ce dernier aborde une question concrète avec une méthode de machine learning sur un dataset formatté (et de préférence benchmarké). Les présentations s'articulent surtout autour de Jupyter Notebook et de méthodes de deep learning. Le speaker présente la théorie de la méthode choisie ainsi qu'une implementation concrète sur sa question.
+L'atelier machine learning se déroule au PNBI un mercredi sur deux (sauf vacances) de 10h30 à 12h. Il s'agit d'une recontre de co-apprentissage impulsée par un animateur. Ce dernier aborde une question concrète avec une méthode de machine learning sur un dataset formatté (et de préférence benchmarké). Les présentations s'articulent surtout autour de Jupyter Notebook et de méthodes de deep learning. Le speaker présente la théorie de la méthode choisie ainsi qu'une implementation concrète sur sa question.
 
-C'est avant tout un moment d'échanges conviviaux et d'apprentissage collaboratif. L'animateur présente ses recherches et tests cependant plus qu'une simple transmission de connaissances, ce sont les questions et échanges des participants qui font l'intérêt de cet atelier.
+C'est avant tout un moment d'échanges conviviaux et d'apprentissage collaboratif. L'animateur présente ses recherches et tests. Cependant plus qu'une simple transmission de connaissances, ce sont les questions et échanges des participants qui font l'intérêt de cet atelier.
 
-Que vous soyez un simple novice curieux ou un expert de machine learning, tous sont bienvenu à l'atelier. Vous pouvez vous inscrire depuis la page suivante: [http://www.campus-mondial-de-la-mer.fr/Center-for-ocean-innovation-and-sustainability-3043-0-0-0.html#Atelier%20Machine%20Learning](http://www.campus-mondial-de-la-mer.fr/Center-for-ocean-innovation-and-sustainability-3043-0-0-0.html#Atelier%20Machine%20Learning).
+Que vous soyez un simple novice curieux ou un expert de machine learning, tous sont bienvenus à l'atelier. Vous pouvez vous inscrire depuis la page suivante: [http://www.campus-mondial-de-la-mer.fr/Center-for-ocean-innovation-and-sustainability-3043-0-0-0.html#Atelier%20Machine%20Learning](http://www.campus-mondial-de-la-mer.fr/Center-for-ocean-innovation-and-sustainability-3043-0-0-0.html#Atelier%20Machine%20Learning).
 
 Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'informations vous pouvez contacter Anouck Hubert (anouck.hubert\[AT\]tech-brest-iroise.fr).
 
