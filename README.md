@@ -37,3 +37,6 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 - Question concrète: Approche classique image pour traiter le son, consistant à apprendre des features sur des MFCCs (mel frequency cepstrum coefficients), améliore-t-elle la reconnaissance automatique de scènes acoustiques?
 - Méthode machine learning: CNN 1 couche
 - Dataset formatté et benchmarké: DCLDE 2018 LF (website does not work [sabiod.univ-tln.fr/DCLDE](sabiod.univ-tln.fr/DCLDE))
+
+## Liens et autres informations
+- [AtelierML-base.ipynb](https://github.com/amlb/amlb.github.io/blob/master/Extra/AtelierML-base.ipynb): template de Jupyter Notebook envoyant des statistiques de classification à un [benchmark en ligne](https://stok.shinyapps.io/aml_shiny) (demandez à Sean les accès MongoDB).
