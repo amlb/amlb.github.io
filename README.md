@@ -13,8 +13,13 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-### [28 Novembre 2018](/2018-11-28_Outils_deep_learning)
+### 12 Décembre 2018 (à venir)
+- Animateur: Arnaud Gaillot
+- Question concrète: Comment prédire la nature des sédiments marins avec le machine learning?
+- Méthode machine learning: Random Forest
+- Dataset formatté et benchmarké: Modèle hydrodynamique, bathymétrie et ses dérivées, réflectivité acoustique, prélèvements sédimentaires (Baie de Somme)
 
+### [28 Novembre 2018](/2018-11-28_Outils_deep_learning)
 - Animateur: Clément Dechesne
 - Question concrète: Comment représenter les données avec des outils deep learning pour mieux appréhender nos problèmes ?
 - Méthode machine learning: Autoencoder & Réseau totalement convolutionels
