@@ -13,7 +13,7 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-### 28 Novembre 2018 (à venir)
+### [28 Novembre 2018](/2018-11-28_Outils_deep_learning)
 
 - Animateur: Clément Dechesne
 - Question concrète: Comment représenter les données avec des outils deep learning pour mieux appréhender nos problèmes ?
