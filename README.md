@@ -13,6 +13,12 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
+### 15 Janvier 2019 (à venir)
+- Animateurs: Myriam Chabah, Jerome Habonneau et Yann Le Gall
+- Question concrète: Classification Mine vs Rocher sur images sonar - Deep Learning sur des petites bases de données ?
+- Méthode machine learning: Transfer learning à partir de CNN pré-entrainés sur images optiques, Classifieurs Machine Learning (SVM, Random Forest)
+- Dataset formatté et benchmarké: Base MNIST réduite
+
 ### [12 Décembre 2018](/2018-12-12_RandomForests)
 - Animateur: Arnaud Gaillot
 - Question concrète: Comment prédire la nature des sédiments marins avec le machine learning?
