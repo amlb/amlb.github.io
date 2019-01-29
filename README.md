@@ -13,7 +13,13 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-### 15 Janvier 2019 (à venir)
+### 29 Janvier 2019 (à venir)
+- Animateur: Jean-Marie prigent
+- Question concrète: Classification d’espèces de poissons dans des conditions variables d’illumination sur petite base de données issue d’images sous-marines. Réaliste ?
+- Méthode machine learning: Deep Learning avec CNN, transfer learning et fine-tuning. Comment s’aider de tensorboard pour historiser et régler les paramètres du réseau?
+- Dataset formatté et benchmarké: Base de données ‘unbalanced’ d’images sous-marines de poisson (468 classes)
+
+### [15 Janvier 2019](/2019-01-15_MNIST_TransferLearning)
 - Animateurs: Myriam Chabah, Jerome Habonneau et Yann Le Gall
 - Question concrète: Classification Mine vs Rocher sur images sonar - Deep Learning sur des petites bases de données ?
 - Méthode machine learning: Transfer learning à partir de CNN pré-entrainés sur images optiques, Classifieurs Machine Learning (SVM, Random Forest)
