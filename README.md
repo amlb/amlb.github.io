@@ -13,7 +13,19 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-### 29 Janvier 2019 (à venir)
+### 12 Mars 2019 (à venir)
+- Animateur: Clément Dechesne
+- Question concrète: Comparaison entre Support Vector Machine (SVM) et une méthode de Deep Learning. Différents cas d'utilisation
+- Méthode machine learning: Un SVM sera comparé à un Multi Layer Perceptron (MLP)
+- Dataset formatté et benchmarké: Données synthétiques
+
+### 26 Février 2019
+- Animateur: Yoann Sola
+- Question concrète: Comment un algorithme peut-il apprendre un comportement à partir de ses interactions avec un environnement inconnu?
+- Méthode machine learning: Deep Q-Learning, un algorithme de Deep Reinforcement Learning
+- Dataset formatté et benchmarké: Les environnements d'OpenAI Gym simulant des jeux Atari 2600
+
+### 29 Janvier 2019
 - Animateur: Jean-Marie prigent
 - Question concrète: Classification d’espèces de poissons dans des conditions variables d’illumination sur petite base de données issue d’images sous-marines. Réaliste ?
 - Méthode machine learning: Deep Learning avec CNN, transfer learning et fine-tuning. Comment s’aider de tensorboard pour historiser et régler les paramètres du réseau?
