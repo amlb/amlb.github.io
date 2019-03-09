@@ -1,0 +1,130 @@
+Champ;Description;Paramètres de calculs;Statistiques
+FID;identifiant;;
+CAMPAGNE;nom de la campagne du prélèvement;;
+NUMPREL;numéro de prélèvement;;
+DATE;date;;
+ANNEE;année;;
+LATITUDE;latitude du prélèvement;;
+LONGITUDE;longitude du prélèvement;;
+PROFONDEUR;profondeur du prélèvement;;
+LONGUEUR;longueur du prélèvement;;
+OUTIL;outil utilisé pour le prélèvement;;
+SITE;site ;;
+DESC_BORD;Description effectuée à bord;;
+G_SUP_4MM;% en masse de grain > 4mm;;
+G_SUP_2MM;% en masse de grain > 2mm;;
+G_SUP_1MM;% en masse de grain > 1mm;;
+G_SUP_0_5M;% en masse de grain > 0,5mm;;
+G_SUP_025M;% en masse de grain > 0,25mm;;
+G_SUP_0125;% en masse de grain > 0,125mm;;
+G_SUP_0063;% en masse de grain > 63µm;;
+G_INF_0063;% en masse de grain < 63µm;;
+GRAVEL;% de gravier;;
+SAND;% de sable;;
+SILT;% de silt;;
+CLAY;% de vase;;
+Folk_Val;classification de Folk numérique;;
+Folk_Str;classification de Folk;;
+MODE;Principale classe granulométrique;;
+D50;Médiane granulométrique;;
+DESC_LAB;Description effectuée au laboratoire;;
+FRAC_CACO3;Pourcentage de carbonate;;
+COULEUR;couleur;;
+TYPE_GPART;;;
+FAC_ACOUST;Faciès acoustique;;
+CLAS_LARSO;classification de larsonneur;;
+bathy;Bathymétrie;;moyenne dans un rayon de 5m
+slope;Pente;;moyenne dans un rayon de 5m
+rgh;Rugosité;;moyenne dans un rayon de 5m
+eastness;Direction de la plus forte pente, composante E/O;;moyenne dans un rayon de 5m
+northness;Direction de la plus forte pente, composante N/S;;moyenne dans un rayon de 5m
+curvPL;Courbure, composante perpendiculaire à la pente;;moyenne dans un rayon de 5m
+curvPR;Courbure, composante transverse à la pente;;moyenne dans un rayon de 5m
+curv;Courbure;;moyenne dans un rayon de 5m
+BPI3;Bathymetric Position Index ;3x3 pixels;moyenne dans un rayon de 5m
+BPI5;Bathymetric Position Index ;5x5 pixels;moyenne dans un rayon de 5m
+BPI10;Bathymetric Position Index ;10x10 pixels;moyenne dans un rayon de 5m
+BPI25;Bathymetric Position Index ;25x25 pixels;moyenne dans un rayon de 5m
+BPI30;Bathymetric Position Index ;30x30 pixels;moyenne dans un rayon de 5m
+BPI40;Bathymetric Position Index ;40x40 pixels;moyenne dans un rayon de 5m
+BPI50;Bathymetric Position Index ;50x50 pixels;moyenne dans un rayon de 5m
+BPI60;Bathymetric Position Index ;60x60 pixels;moyenne dans un rayon de 5m
+BPI80;Bathymetric Position Index ;80x80 pixels;moyenne dans un rayon de 5m
+BPI90;Bathymetric Position Index ;90x90 pixels;moyenne dans un rayon de 5m
+BPI100;Bathymetric Position Index ;100x100 pixels;moyenne dans un rayon de 5m
+VRM5;Vector ruggedness measure;3x3 pixels;moyenne dans un rayon de 5m
+VRM7;Vector ruggedness measure;7x7 pixels;moyenne dans un rayon de 5m
+VRM11;Vector ruggedness measure;11x11 pixels;moyenne dans un rayon de 5m
+VRM13;Vector ruggedness measure;13x13 pixels;moyenne dans un rayon de 5m
+VRM19;Vector ruggedness measure;19x19 pixels;moyenne dans un rayon de 5m
+BSmn;Backscatter;;moyenne dans un rayon de 5m
+BSmd;Backscatter;;mediane dans un rayon de 5m
+BSsd;Backscatter;;Ecart type dans un rayon de 5m
+BSlee3mn;Lee-filtrered Backscatter;3x3 pixels;moyenne dans un rayon de 5m
+BSlee3md;Lee-filtrered Backscatter;3x3 pixels;mediane dans un rayon de 5m
+BSlee3sd;Lee-filtrered Backscatter;3x3 pixels;Ecart type dans un rayon de 5m
+BSlee5mn;Lee-filtrered Backscatter;5x5 pixels;moyenne dans un rayon de 5m
+BSlee5md;Lee-filtrered Backscatter;5x5 pixels;mediane dans un rayon de 5m
+BSlee5sd;Lee-filtrered Backscatter;5x5 pixels;Ecart type dans un rayon de 5m
+BSlee7mn;Lee-filtrered Backscatter;7x7 pixels;moyenne dans un rayon de 5m
+BSlee7md;Lee-filtrered Backscatter;7x7 pixels;mediane dans un rayon de 5m
+BSlee7sd;Lee-filtrered Backscatter;7x7 pixels;Ecart type dans un rayon de 5m
+HSIBmn;HSI split-spectrum basckscatter, Blue;51x51 pixels;moyenne dans un rayon de 5m
+HSIBmd;HSI split-spectrum basckscatter, Blue;51x51 pixels;mediane dans un rayon de 5m
+HSIBsd;HSI split-spectrum basckscatter, Blue;51x51 pixels;Ecart type dans un rayon de 5m
+HSIGmn;HSI split-spectrum basckscatter, Green;51x51 pixels;moyenne dans un rayon de 5m
+HSIGmd;HSI split-spectrum basckscatter, Green;51x51 pixels;mediane dans un rayon de 5m
+HSIGsd;HSI split-spectrum basckscatter, Green;51x51 pixels;Ecart type dans un rayon de 5m
+HSIRmn;HSI split-spectrum basckscatter, Red;51x51 pixels;moyenne dans un rayon de 5m
+HSIRmd;HSI split-spectrum basckscatter, Red;51x51 pixels;mediane dans un rayon de 5m
+HSIRsd;HSI split-spectrum basckscatter, Red;51x51 pixels;Ecart type dans un rayon de 5m
+RatioBRmn;HSI band-ratio Blue/Red;51x51 pixels;moyenne dans un rayon de 5m
+RatioBRmd;HSI band-ratio Blue/Red;51x51 pixels;mediane dans un rayon de 5m
+RatioBRsd;HSI band-ratio Blue/Red;51x51 pixels;Ecart type dans un rayon de 5m
+RatioGBmn;HSI band-ratio Green/Blue;51x51 pixels;moyenne dans un rayon de 5m
+RatioGBmd;HSI band-ratio Green/Blue;51x51 pixels;mediane dans un rayon de 5m
+RatioGBsd;HSI band-ratio Green/Blue;51x51 pixels;Ecart type dans un rayon de 5m
+RatioRGmn;HSI band-ratio Red/Green;51x51 pixels;moyenne dans un rayon de 5m
+RatioRGmd;HSI band-ratio Red/Green;51x51 pixels;mediane dans un rayon de 5m
+RatioRGsd;HSI band-ratio Red/Green;51x51 pixels;Ecart type dans un rayon de 5m
+hs_mean;Significant wave height of wind and swell waves (m);;moyenne de 1994 à 2012
+hs_min;Significant wave height of wind and swell waves (m);;minimum de 1994 à 2012
+hs_max;Significant wave height of wind and swell waves (m);;maximum de 1994 à 2012
+t02_mean;mean period of waves (s);;moyenne de 1994 à 2012
+t02_min;mean period of waves (s);;minimum de 1994 à 2012
+t02_max;mean period of waves (s);;maximum de 1994 à 2012
+dir_mean;wave mean direction (deg);;moyenne de 1994 à 2012
+dir_min;wave mean direction (deg);;minimum de 1994 à 2012
+dir_max;wave mean direction (deg);;maximum de 1994 à 2012
+fp_mean;wave peak frequency (Hz);;moyenne de 1994 à 2012
+fp_min;wave peak frequency (Hz);;minimum de 1994 à 2012
+fp_max;wave peak frequency (Hz);;maximum de 1994 à 2012
+dp_mean;wave peak direction (deg);;moyenne de 1994 à 2012
+dp_min;wave peak direction (deg);;minimum de 1994 à 2012
+dp_max;wave peak direction (deg);;maximum de 1994 à 2012
+cur_mean;current (m/s);;moyenne de 1994 à 2012
+cur_min;current (m/s);;minimum de 1994 à 2012
+cur_max;current (m/s);;maximum de 1994 à 2012
+cur_d_mean;current direction (deg);;moyenne de 1994 à 2012
+cur_d_min;current direction (deg);;minimum de 1994 à 2012
+cur_d_max;current direction (deg);;maximum de 1994 à 2012
+wnd_mean;wind (m/s);;moyenne de 1994 à 2012
+wnd_min;wind (m/s);;minimum de 1994 à 2012
+wnd_max;wind (m/s);;maximum de 1994 à 2012
+wnd_d_mean;wind direction (deg);;moyenne de 1994 à 2012
+wnd_d_min;wind direction (deg);;minimum de 1994 à 2012
+wnd_d_max;wind direction (deg);;maximum de 1994 à 2012
+abr_mean;bottom displacement, rms (m);;moyenne de 1994 à 2012
+abr_min;bottom displacement, rms (m);;minimum de 1994 à 2012
+abr_max;bottom displacement, rms (m);;maximum de 1994 à 2012
+abr_d_mean;bottom displacement direction (deg);;moyenne de 1994 à 2012
+abr_d_min;bottom displacement direction (deg);;minimum de 1994 à 2012
+abr_d_max;bottom displacement direction (deg);;maximum de 1994 à 2012
+ubr_mean;bottom velocity, rms (m/s);;moyenne de 1994 à 2012
+ubr_min;bottom velocity, rms (m/s);;minimum de 1994 à 2012
+ubr_max;bottom velocity, rms (m/s);;maximum de 1994 à 2012
+ubr_d_mean;bottom velocity direction (deg);;moyenne de 1994 à 2012
+ubr_d_min;bottom velocity direction (deg);;minimum de 1994 à 2012
+ubr_d_max;bottom velocity direction (deg);;maximum de 1994 à 2012
+alrm;additive log ratio MUD;;
+alrs;additive log ratio SAND;;

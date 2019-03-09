@@ -15,3 +15,7 @@
 - [ROS](http://www.ros.org) : middleware pour la robotique
 - [Gazebo](http://gazebosim.org) : simulateur pour la robotique
 - [UUV Simulator](https://uuvsimulator.github.io) :  simulateur centré sur la robotique marine et basé sur ROS et Gazebo
+
+## Cours
+- [MIT_cours_intro_RL.pdf](https://github.com/amlb/amlb.github.io/blob/master/2019-02-26_ReinforcementLearning/MIT_cours_intro_RL.pdf) : Slides présentés lors d'un cours du MIT ([video youtube](https://youtu.be/zR11FLZ-O9M))
+- [Sutton et Barto - 2018 - Reinforcement Learning An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) : Vous pouvez demander à Yoann si vous voulez voir son exemplaire.
