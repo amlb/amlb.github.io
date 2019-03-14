@@ -13,7 +13,9 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-### 12 Mars 2019 (à venir)
+Prochaine(s) session(s): mardi 26 mars 2019
+
+### [12 mars 2019](/2019-03-12_SVM)
 - Animateur: Clément Dechesne
 - Question concrète: Comparaison entre Support Vector Machine (SVM) et une méthode de Deep Learning. Différents cas d'utilisation
 - Méthode machine learning: Un SVM sera comparé à un Multi Layer Perceptron (MLP)
