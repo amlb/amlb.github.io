@@ -19,49 +19,49 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 - Méthode machine learning: Un SVM sera comparé à un Multi Layer Perceptron (MLP)
 - Dataset formatté et benchmarké: Données synthétiques
 
-### [26 Février 2019](/2019-02-26_ReinforcementLearning)
+### [26 février 2019](/2019-02-26_ReinforcementLearning)
 - Animateur: Yoann Sola
 - Question concrète: Comment un algorithme peut-il apprendre un comportement à partir de ses interactions avec un environnement inconnu?
 - Méthode machine learning: Deep Q-Learning, un algorithme de Deep Reinforcement Learning
 - Dataset formatté et benchmarké: Les environnements d'OpenAI Gym simulant des jeux Atari 2600
 
-### 29 Janvier 2019
-- Animateur: Jean-Marie prigent
+### 29 janvier 2019
+- Animateur: Jean-Marie Prigent
 - Question concrète: Classification d’espèces de poissons dans des conditions variables d’illumination sur petite base de données issue d’images sous-marines. Réaliste ?
 - Méthode machine learning: Deep Learning avec CNN, transfer learning et fine-tuning. Comment s’aider de tensorboard pour historiser et régler les paramètres du réseau?
 - Dataset formatté et benchmarké: Base de données ‘unbalanced’ d’images sous-marines de poisson (468 classes)
 
-### [15 Janvier 2019](/2019-01-15_MNIST_TransferLearning)
+### [15 janvier 2019](/2019-01-15_MNIST_TransferLearning)
 - Animateurs: Myriam Chabah, Jerome Habonneau et Yann Le Gall
 - Question concrète: Classification Mine vs Rocher sur images sonar - Deep Learning sur des petites bases de données ?
 - Méthode machine learning: Transfer learning à partir de CNN pré-entrainés sur images optiques, Classifieurs Machine Learning (SVM, Random Forest)
 - Dataset formatté et benchmarké: Base MNIST réduite
 
-### [12 Décembre 2018](/2018-12-12_RandomForests)
+### [12 décembre 2018](/2018-12-12_RandomForests)
 - Animateur: Arnaud Gaillot
 - Question concrète: Comment prédire la nature des sédiments marins avec le machine learning?
 - Méthode machine learning: Random Forest
 - Dataset formatté et benchmarké: Modèle hydrodynamique, bathymétrie et ses dérivées, réflectivité acoustique, prélèvements sédimentaires (Baie de Somme)
 
-### [28 Novembre 2018](/2018-11-28_Outils_deep_learning)
+### [28 novembre 2018](/2018-11-28_Outils_deep_learning)
 - Animateur: Clément Dechesne
 - Question concrète: Comment représenter les données avec des outils deep learning pour mieux appréhender nos problèmes ?
 - Méthode machine learning: Autoencoder & Réseau totalement convolutionels
 - Dataset formatté et benchmarké: MNIST (chiffres écrits à la main) et Base de donnée d'image pour segmentation sémantique
 
-### [14 Novembre 2018](/2018-11-14_LSTM_legifrance)
+### [14 novembre 2018](/2018-11-14_LSTM_legifrance)
 - Animateur: Erwan Keribin
 - Question concrète: A quel point les LSTM donnent de meilleurs résultats en génération de text que des Chaînes de Markov ?
 - Méthode machine learning: LSTM
 - Dataset formatté et benchmarké: Corpus issu de la législation française
 
-### [24 Octobre 2018](/2018-10-24_LSTM-CNN_GoogleAudioSet)
+### [24 octobre 2018](/2018-10-24_LSTM-CNN_GoogleAudioSet)
 - Animateur: Dorian Cazau
 - Question concrète: Approche multimodale, consistant à apprendre conjointement des features sur la vidéo et le son, améliore t-elle la reconnaissance automatique de scènes acoustiques issues de vidéos youtube ?
 - Méthode machine learning: multimodal deep auto-encoder
 - Dataset formatté et benchmarké: Google Audio Set ([https://research.google.com/audioset](https://research.google.com/audioset))
 
-### [10 Octobre 2018](/2018-10-10_CNN_Whales)
+### [10 octobre 2018](/2018-10-10_CNN_Whales)
 - Animateur: Paul Nguyen Hong Duc
 - Question concrète: Approche classique image pour traiter le son, consistant à apprendre des features sur des MFCCs (mel frequency cepstrum coefficients), améliore-t-elle la reconnaissance automatique de scènes acoustiques?
 - Méthode machine learning: CNN 1 couche

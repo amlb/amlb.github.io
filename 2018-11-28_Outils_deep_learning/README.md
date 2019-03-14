@@ -1,4 +1,4 @@
-# 28 Novembre 2018
+# 28 novembre 2018
 - Animateur: Clément Dechesne
 - Question concrète: Comment représenter les données avec des outils deep learning pour mieux appréhender nos problèmes ?
 - Méthode machine learning: Autoencoder & Réseau totalement convolutionels

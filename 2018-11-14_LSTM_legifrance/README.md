@@ -1,4 +1,4 @@
-# 14 Novembre 2018
+# 14 novembre 2018
 - Animateur: Erwan Keribin
 - Question concrète: A quel point les LSTM donnent de meilleurs résultats en génération de text que des Chaînes de Markov ?
 - Méthode machine learning: LSTM

@@ -1,4 +1,4 @@
-# 24 Octobre 2018
+# 24 octobre 2018
 - Animateur: Dorian Cazau
 - Question concrète: approche multimodale, consistant à apprendre conjointement des features sur la vidéo et le son, améliore t-elle la reconnaissance automatique de scènes acoustiques issues de vidéos youtube ?
 - Méthode machine learning: multimodal deep auto-encoder

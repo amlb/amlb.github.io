@@ -1,4 +1,4 @@
-# 26 Février 2019
+# 26 février 2019
 - Animateur: Yoann Sola
 - Question concrète: Comment un algorithme peut-il apprendre un comportement à partir de ses interactions avec un environnement inconnu?
 - Méthode machine learning: Deep Q-Learning, un algorithme de Deep Reinforcement Learning

@@ -1,4 +1,4 @@
-# 12 Décembre 2018
+# 12 décembre 2018
 - Animateur: Arnaud Gaillot
 - Question concrète: Comment prédire la nature des sédiments marins avec le machine learning?
 - Méthode machine learning: Random Forest
