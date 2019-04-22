@@ -13,7 +13,19 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-Prochaine(s) session(s): mardi 26 mars 2019
+Prochaine(s) session(s): mardi 11 juin 2019
+
+### 23 avril 2019 (à venir)
+- Animateur: Riwal Lefort
+- Question concrète: Random Forest VS XGboost, quelles sont les différences majeures entre ces deux algorithmes ?
+- Méthode machine learning: Random Forest et XGboost
+- Dataset formatté et benchmarké: 2 jeux de données, prédiction sédimentaire IFREMER et breast cancer dataset
+
+### 26 mars 2019
+- Animateur: Erwan Keribin
+- Question concrète: Comment générer des peintures avec du DeepLearning
+- Méthode machine learning: Autoencodeur et Generative adversarial network (GAN)
+- Dataset formatté et benchmarké: Kaggle Painter by Numbers (principalement provenant de WikiArt.org)
 
 ### [12 mars 2019](/2019-03-12_SVM)
 - Animateur: Clément Dechesne
