@@ -13,9 +13,15 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-Prochaine(s) session(s): mardi 11 juin 2019
+Prochaine(s) session(s): mardi 25 juin 2019
 
-### 23 avril 2019 (à venir)
+### 21 mai 2019
+- Animatrice: Marie-Charlotte Desseroit
+- Question concrète: Détection des volumes d'intérêt (épaule, humérus, ..) dans les images scanner
+- Méthode machine learning: Extraction de zones d'intérêt avec un réseau faster rcnn et l'application object_detection de tensorflow
+- Dataset formatté et benchmarké: Images médicales (scanner)
+
+### 23 avril 2019
 - Animateur: Riwal Lefort
 - Question concrète: Random Forest VS XGboost, quelles sont les différences majeures entre ces deux algorithmes ?
 - Méthode machine learning: Random Forest et XGboost
