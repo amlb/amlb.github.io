@@ -5,13 +5,13 @@
 - Dataset formatté et benchmarké: Google Audio Set ([https://research.google.com/audioset](https://research.google.com/audioset))
 
 ## Présentation
-[How LSTM works.pdf](https://github.com/amlb/amlb.github.io/blob/master/2018-10-24_LSTM-CNN_GoogleAudioSet/How%20LSTM%20works.pdf)
+[How LSTM works.pdf](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2018-10-24_LSTM-CNN_GoogleAudioSet/How%20LSTM%20works.pdf)
 
 ## Notebooks et fichiers data:
-- [AtelierML-24102018.ipynb](https://github.com/amlb/amlb.github.io/blob/master/2018-10-24_LSTM-CNN_GoogleAudioSet/AtelierML-24102018.ipynb): notebook de l'atelier
-- [associatedLabels.npy](https://github.com/amlb/amlb.github.io/blob/master/2018-10-24_LSTM-CNN_GoogleAudioSet/associatedLabels.npy): labels associés à chaque matrice de dataMat.npy et de tensors.npy
-- [dataMat.npy](https://github.com/amlb/amlb.github.io/blob/master/2018-10-24_LSTM-CNN_GoogleAudioSet/dataMat.npy): MFCCs (matrice pour chaque fichier)
-- [tensors.npy](https://github.com/amlb/amlb.github.io/blob/master/2018-10-24_LSTM-CNN_GoogleAudioSet/tensors.npy): 4 frames extraites et réunies pour former un tenseur pour chaque vidéo
+- [AtelierML-24102018.ipynb](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2018-10-24_LSTM-CNN_GoogleAudioSet/AtelierML-24102018.ipynb): notebook de l'atelier
+- [associatedLabels.npy](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2018-10-24_LSTM-CNN_GoogleAudioSet/associatedLabels.npy): labels associés à chaque matrice de dataMat.npy et de tensors.npy
+- [dataMat.npy](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2018-10-24_LSTM-CNN_GoogleAudioSet/dataMat.npy): MFCCs (matrice pour chaque fichier)
+- [tensors.npy](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2018-10-24_LSTM-CNN_GoogleAudioSet/tensors.npy): 4 frames extraites et réunies pour former un tenseur pour chaque vidéo
 
 ## Theoretical point & doc sources
 

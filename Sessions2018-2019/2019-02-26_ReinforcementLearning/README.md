@@ -5,7 +5,7 @@
 - Dataset formatté et benchmarké: Les environnements d'OpenAI Gym simulant des jeux Atari 2600
 
 ## Présentation
-[[16_9]presentation_alloha_RL_26_02_2019.pdf](https://github.com/amlb/amlb.github.io/blob/master/2019-02-26_ReinforcementLearning/[16_9]presentation_alloha_RL_26_02_2019.pdf)
+[[16_9]presentation_alloha_RL_26_02_2019.pdf](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2019-02-26_ReinforcementLearning/[16_9]presentation_alloha_RL_26_02_2019.pdf)
 
 ## Liens librairies de Reinforcement Learning
 - [OpenAI Gym](https://github.com/openai/gym) : environnement de simulation
@@ -17,5 +17,5 @@
 - [UUV Simulator](https://uuvsimulator.github.io) :  simulateur centré sur la robotique marine et basé sur ROS et Gazebo
 
 ## Cours
-- [MIT_cours_intro_RL.pdf](https://github.com/amlb/amlb.github.io/blob/master/2019-02-26_ReinforcementLearning/MIT_cours_intro_RL.pdf) : Slides présentés lors d'un cours du MIT ([video youtube](https://youtu.be/zR11FLZ-O9M))
+- [MIT_cours_intro_RL.pdf](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2019-02-26_ReinforcementLearning/MIT_cours_intro_RL.pdf) : Slides présentés lors d'un cours du MIT ([video youtube](https://youtu.be/zR11FLZ-O9M))
 - [Sutton et Barto - 2018 - Reinforcement Learning An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) : Vous pouvez demander à Yoann si vous voulez voir son exemplaire.
