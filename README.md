@@ -25,7 +25,7 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 - Animateur: Sean Tokunaga
 - Sujet: Prédictions de la température et salinité de l'océan avec un réseau de neurones entrainé sur les données ARGO
 
-### [24 septembre 2019](/Sessions2019-2020/2019-09-24_detection_acoustique.pdf)
+### [24 septembre 2019](https://github.com/amlb/amlb.github.io/blob/master/Sessions2019-2020/2019-09-24_detection_acoustique.pdf)
 - Animateur: Dorian Cazau et Paul Nguyen
 - Sujet: Reconnaissance de scènes biologiques en acoustique sous-marine par transfert d’apprentissage
 

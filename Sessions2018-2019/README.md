@@ -38,7 +38,7 @@
 - Méthode machine learning: Transfer learning à partir de CNN pré-entrainés sur images optiques, Classifieurs Machine Learning (SVM, Random Forest)
 - Dataset formatté et benchmarké: Base MNIST réduite
 
-### [29 janvier 2019](/Sessions2018-2019/2019-01-29_fish_CNN.ipynb)
+### [29 janvier 2019](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2019-01-29_fish_CNN.ipynb)
 - Animateur: Jean-Marie Prigent
 - Question concrète: Classification d’espèces de poissons dans des conditions variables d’illumination sur petite base de données issue d’images sous-marines. Réaliste ?
 - Méthode machine learning: Deep Learning avec CNN, transfer learning et fine-tuning. Comment s’aider de tensorboard pour historiser et régler les paramètres du réseau?
@@ -62,7 +62,7 @@
 - Méthode machine learning: Autoencodeur et Generative adversarial network (GAN)
 - Dataset formatté et benchmarké: Kaggle Painter by Numbers (principalement provenant de WikiArt.org)
 
-### [23 avril 2019](/Sessions2018-2019/2019-04-23_xgboost_vs_RF.pdf)
+### [23 avril 2019](https://github.com/amlb/amlb.github.io/blob/master/Sessions2018-2019/2019-04-23_xgboost_vs_RF.pdf)
 - Animateur: Riwal Lefort
 - Question concrète: Random Forest VS XGboost, quelles sont les différences majeures entre ces deux algorithmes ?
 - Méthode machine learning: Random Forest et XGboost
