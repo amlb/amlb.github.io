@@ -3,7 +3,7 @@ Lien Github: [https://github.com/amlb/amlb.github.io](https://github.com/amlb/am
 
 ## Description de l'évènement
 
-Les ateliers ont lieu un mardi par mois de 12 h à 14 heures au Pôle Numérique Brest Iroise (PNBI) à Plouzané.
+Les ateliers ont lieu un mardi par mois de 12h30 à 13h30 au Pôle Numérique Brest Iroise (PNBI) à Plouzané.
 
 Nous vous invitons à amener votre lunchbox.
 
