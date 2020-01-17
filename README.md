@@ -19,7 +19,15 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-**Prochaine(s) session(s):** mardi 3 décembre 2019
+**Prochaine(s) session(s):** mardi 18 février 2020
+
+### 21 janvier 2020
+- Animateur: Jean-Marie Prigent
+- Sujet: Mask-RCNN for underwater images and videos
+
+### 3 décembre 2019
+- Animateur: Pierre-Antoine Féchet
+- Sujet: Deep Learning pour l'identification d'algues dans des images marines
 
 ### 5 novembre 2019
 - Animateur: Sean Tokunaga
