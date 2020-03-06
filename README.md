@@ -19,7 +19,11 @@ Si vous souhaitez participer en tant qu'animateur ou juste obtenir plus d'inform
 
 ## Sessions
 
-**Prochaine(s) session(s):** mardi 18 février 2020
+**Prochaine(s) session(s):** séance du 10 mars annulée
+
+### [18 février 2020](/Sessions2019-2020/2020-02-18_Upscaling)
+- Animateur: Erwan Keribin
+- Sujet: Upscaling d’images satellites via des modèles génératifs
 
 ### 21 janvier 2020
 - Animateur: Jean-Marie Prigent
